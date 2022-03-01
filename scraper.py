@@ -5,7 +5,7 @@ import pickle
 import requests
 from bs4 import BeautifulSoup
 
-URL_KIJIJI = "https://www.kijiji.ca/b-appartement-condo/ville-de-montreal/3+1+2__3+1+2+et+coin+detente__4+1+2-appartement/c37l1700281a27949001a29276001?price=__1000"
+URL_KIJIJI = "https://www.kijiji.ca/b-appartement-condo/ville-de-montreal/3+1+2__3+1+2+et+coin+detente__4+1+2__4+1+2+et+coin+detente__5+1+2/c37l1700281a27949001?radius=3.0&ad=offering&price=__1020&address=3994+Rue+Rivard%2C+Montr%C3%A9al%2C+QC+H2L+4H7%2C+Canada&ll=45.521028,-73.575177"
 USER_AGENT = "Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:97.0) Gecko/20100101 Firefox/97.0"
 TOKEN = "MTY0MDg1MDEzNDg1MTkxMTY4.Yh44BA.uSKH4U_oCAAh8PTm6lFNTektYp8"
 CHANNEL_ID = "641315485132259328"
