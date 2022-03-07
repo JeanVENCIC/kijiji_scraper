@@ -28,7 +28,7 @@ def main():
     print("staring at : " + str(time.ctime()))
 
     while True :
-        print("Scraping : " + str(time.ctime()))
+        print("Scraping : " + str(time.ctime()) + " : ", end='')
 
         ads_dict = load_ads_dict(args.path_pickle)
 
