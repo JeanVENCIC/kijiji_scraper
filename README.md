@@ -9,6 +9,6 @@ For the script to work you'll have to :
 - get the discord channel id (can be a serveur channel or a dm channel) and write it in the scraper.py file as the CHANNEL_ID global variable
 
 ## Good to know
-- adds already encountered will be stored in a pickle file
+- ads already encountered will be stored in a pickle file
 - the time between 2 webpage scraps (--timer) should not be set to 1 for it causes an IP timeout by kijiji
 
