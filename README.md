@@ -1,5 +1,5 @@
 # kijiji_scraper
-Python toy project to automatically scrap specific Kijiji webpages and notify every new add by discord dm.
+Python toy project to automatically scrap specific Kijiji webpages and notify every new ad by discord dm.
 
 
 ## Requirements
