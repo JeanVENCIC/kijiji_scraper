@@ -1,5 +1,8 @@
 # adds savefile
-ads_dict.pickle
+ads_dict.pkl
+
+# discord credentials
+discord_config.json
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
